@@ -2486,7 +2486,7 @@ Team Felbermayr-Proton #88,39,14,Team Felbermayr-Proton,Porsche 911 RSR (997),LM
 Strakka Racing #42,40,10,Strakka Racing,Honda Performance Development Arx 01 D,LM P2,,LeMans,24,2011,144,11:15:47.171,211 Laps,25 Laps,Michelin,Retired,136.0,3:44.820,218.2,Nick Leventis,Danny Watts,Jonny Kane
 Gulf AMR Middle East #60,41,8,Gulf AMR Middle East,Aston Martin Vantage,LM GTE Am,,LeMans,24,2011,141,12:33:55.601,214 Laps,3 Laps,Dunlop,Retired,24.0,4:04.755,200.5,Fabien Giroix,Roald Goethe,Michael Wainwright
 Pecom Racing #39,42,11,Pecom Racing,Lola B11/40-Judd Bmw,LM P2,,LeMans,24,2011,139,10:55:48.358,216 Laps,2 Laps,Michelin,Retired,82.0,3:45.283,217.8,Luis Perez-Companc,Matias Russo,Pierre Kaffer
-Hankook-Team Farnbacher #89,43,15,Hankook-Team Farnbacher,Ferrari 458 Italia,LM GTE Pro,,LeMans,24,2011,137,13:21:07.058,218 Laps,2 Laps,,Retired,28.0,4:01.390,203.3,Dominik Farnbacher,Allan Simonsen,Leh Keen
+Hankook-Team Farnbacher #89,43,15,Hankook-Team Farnbacher,Ferrari 458 Italia,LM GTE Pro,,LeMans,24,2011,137,13:21:07.058,218 Laps,2 Laps,Hankook,Retired,28.0,4:01.390,203.3,Dominik Farnbacher,Allan Simonsen,Leh Keen
 Luxury Racing #58,44,16,Luxury Racing,Ferrari 458 Italia,LM GTE Pro,,LeMans,24,2011,136,15:00:19.266,219 Laps,1 Laps,Michelin,Retired,11.0,4:02.357,202.4,Anthony Beltoise,François Jakubowski,Pierre Thiriet
 Lotus Jetalliance #64,45,17,Lotus Jetalliance,Lotus Evora,LM GTE Pro,,LeMans,24,2011,126,12:29:52.650,229 Laps,10 Laps,Michelin,Retired,61.0,4:19.377,189.2,Oskar Slingerland,Martin Rich,John Hartshorne
 Krohn Racing #57,46,9,Krohn Racing,Ferrari F430,LM GTE Am,,LeMans,24,2011,123,10:22:41.569,232 Laps,3 Laps,Dunlop,Retired,97.0,4:05.181,200.1,Tracy Krohn,Niclas Jonsson,Michele Rugolo
@@ -2529,7 +2529,7 @@ Krohn Racing #57,26,3,Krohn Racing,Ferrari F458 Italia,LMGTE Am,,Silverstone,6,2
 Team Felbermayr-Proton #77,27,4,Team Felbermayr-Proton,Porsche 911 RSR (997),LMGTE Pro,,Silverstone,6,2012,164,6:01:42.091,30 Laps,1 Laps,Michelin,Classified,128.0,2:01.718,174.2,Marc Lieb,Richard Lietz,
 Aston Martin Racing #98,28,4,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Am,,Silverstone,6,2012,163,6:02:29.945,31 Laps,1 Laps,Michelin,Classified,50.0,2:04.109,170.8,Roald Goethe,Stuart Hall,
 Larbre Competition #70,29,5,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Silverstone,6,2012,162,6:01:00.510,32 Laps,1 Laps,Michelin,Classified,114.0,2:04.804,169.9,Jean-Philippe Belloc,Christophe Bourret,Pascal Gibon
-JWA-Avila #55,30,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Silverstone,6,2012,161,6:02:08.760,33 Laps,1 Laps,,Classified,4.0,2:06.328,167.8,Joël Camathias,Markus Palttala,Paul Daniels
+JWA-Avila #55,30,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Silverstone,6,2012,161,6:02:08.760,33 Laps,1 Laps,Pirelli,Classified,4.0,2:06.328,167.8,Joël Camathias,Markus Palttala,Paul Daniels
 AF Corse #71,31,5,AF Corse,Ferrari F458 Italia,LMGTE Pro,,Silverstone,6,2012,168,5:59:26.618,26 Laps,-7 Laps,Michelin,Not classified,147.0,2:02.476,173.1,Andrea Bertolini,Olivier Beretta,
 Aston Martin Racing #99,32,7,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Am,,Silverstone,6,2012,157,5:49:03.659,37 Laps,11 Laps,Michelin,Not classified,8.0,2:04.566,170.2,Jonathan Adam,Andrew Howard,Paul White
 Signatech Nissan #23,33,14,Signatech Nissan,Oreca 03 - Nissan,LMP2,,Silverstone,6,2012,135,4:27:49.101,59 Laps,22 Laps,Dunlop,Not classified,3.0,1:52.195,189.0,Franck Mailleux,Olivier Lombard,Jordan Tresson
@@ -2565,7 +2565,7 @@ Larbre Competition #50,27,4,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE A
 Luxury Racing #58,28,5,Luxury Racing,Ferrari F458 Italia,LMGTE Am,,Spa,6,2012,137,6:01:00.136,23 Laps,1.236,Michelin,Classified,116.0,2:23.358,175.9,Pierre Ehret,Franck Montecalvo,Gunnar Jeannette
 Lotus #32,29,11,Lotus,Lola B12/80 Coupé - Lotus,LMP2,,Spa,6,2012,137,6:01:19.202,23 Laps,19.066,Dunlop,Classified,40.0,2:13.183,189.3,Luca Moro,Kevin Weeda,James Rossiter
 Signatech Nissan #26,30,12,Signatech Nissan,Oreca 03 - Nissan,LMP2,,Spa,6,2012,136,6:01:22.401,24 Laps,1 Laps,Dunlop,Classified,102.0,2:10.072,193.8,Nelson Panciatici,Pierre Ragues,Roman Rusinov
-JWA-Avila #55,31,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Spa,6,2012,134,6:01:52.079,26 Laps,2 Laps,,Classified,38.0,2:26.531,172.1,Joël Camathias,Markus Palttala,Paul Daniels
+JWA-Avila #55,31,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Spa,6,2012,134,6:01:52.079,26 Laps,2 Laps,Pirelli,Classified,38.0,2:26.531,172.1,Joël Camathias,Markus Palttala,Paul Daniels
 Krohn Racing #57,32,7,Krohn Racing,Ferrari F458 Italia,LMGTE Am,,Spa,6,2012,129,6:02:01.435,31 Laps,5 Laps,Dunlop,Classified,101.0,2:22.892,176.5,Tracy Krohn,Niclas Jönsson,Michele Rugolo
 Signatech Nissan #23,33,13,Signatech Nissan,Oreca 03 - Nissan,LMP2,,Spa,6,2012,128,6:00:55.013,32 Laps,1 Laps,Dunlop,Classified,113.0,2:10.745,192.8,Franck Mailleux,Olivier Lombard,Jordan Tresson
 Starworks Motorsports #44,34,14,Starworks Motorsports,HPD ARX 03b - Honda,LMP2,,Spa,6,2012,123,6:01:12.763,37 Laps,5 Laps,Dunlop,Classified,89.0,2:09.835,194.2,Vicente Potolicchio,Ryan Dalziel,Stéphane Sarrazin
@@ -2598,7 +2598,7 @@ Krohn Racing #57,19,3,Krohn Racing,Ferrari F458 Italia,LMGTE Am,,Bahrain,6,2012,
 ADR-Delta #25,20,8,ADR-Delta,Oreca 03 - Nissan,LMP2,,Bahrain,6,2012,161,6:00:58.553,30 Laps,1 Laps,Dunlop,Classified,123.0,1:53.349,171.9,John Martin,Tor Graves,
 Larbre Competition #50,21,4,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Bahrain,6,2012,157,6:01:20.261,34 Laps,4 Laps,Michelin,Classified,137.0,2:04.895,156.0,Patrick Bornhauser,Julien Canal,Fernando Rees
 Larbre Competition #70,22,5,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Bahrain,6,2012,153,6:02:38.424,38 Laps,4 Laps,Michelin,Classified,95.0,2:03.887,157.3,Jean-Philippe Belloc,Christophe Bourret,Pascal Gibon
-JWA-Avila #55,23,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Bahrain,6,2012,150,6:02:14.968,41 Laps,3 Laps,,Classified,3.0,2:07.387,152.9,Joël Camathias,Benny Simonsen,Paul Daniels
+JWA-Avila #55,23,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Bahrain,6,2012,150,6:02:14.968,41 Laps,3 Laps,Pirelli,Classified,3.0,2:07.387,152.9,Joël Camathias,Benny Simonsen,Paul Daniels
 Toyota Racing #7,24,6,Toyota Racing,Toyota TS030 - Hybrid,LMP1,,Bahrain,6,2012,144,4:39:58.144,47 Laps,6 Laps,Michelin,Not classified,86.0,1:47.128,181.9,Alexander Wurz,Nicolas Lapierre,
 Lotus #31,25,9,Lotus,Lola B12/80 Coupé - Lotus,LMP2,,Bahrain,6,2012,103,3:35:05.001,88 Laps,41 Laps,Dunlop,Not classified,68.0,1:55.795,168.3,Thomas Holzer,Luca Moro,
 Gulf Racing Middle East #29,26,10,Gulf Racing Middle East,Lola B12/80 Coupé - Nissan,LMP2,,Bahrain,6,2012,97,3:21:02.719,94 Laps,6 Laps,Dunlop,Not classified,65.0,1:56.819,166.8,Fabien Giroix,Keiko Ihara,Jean-Denis Deletraz
@@ -2627,7 +2627,7 @@ Team Felbermayr-Proton #88,20,2,Team Felbermayr-Proton,Porsche 911 RSR (997),LMG
 Krohn Racing #57,21,3,Krohn Racing,Ferrari F458 Italia,LMGTE Am,,Shanghai,6,2012,164,6:01:31.195,27 Laps,1 Laps,Michelin,Classified,146.0,2:07.121,154.4,Tracy Krohn,Niclas Jönsson,Michele Rugolo
 AF Corse-Waltrip #61,22,4,AF Corse-Waltrip,Ferrari F458 Italia,LMGTE Am,,Shanghai,6,2012,164,6:03:09.553,27 Laps,1'38.358,Michelin,Classified,105.0,2:05.900,155.9,Robert Kauffman,Rui Aguas,Marco Cioci
 Larbre Competition #70,23,5,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Shanghai,6,2012,163,6:02:48.686,28 Laps,1 Laps,Michelin,Classified,125.0,2:06.974,154.5,Jean-Philippe Belloc,Christophe Bourret,Pascal Gibon
-JWA-Avila #55,24,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Shanghai,6,2012,152,6:02:06.037,39 Laps,11 Laps,,Classified,100.0,2:08.519,152.7,Joël Camathias,Matt Bell,Paul Daniels
+JWA-Avila #55,24,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Shanghai,6,2012,152,6:02:06.037,39 Laps,11 Laps,Pirelli,Classified,100.0,2:08.519,152.7,Joël Camathias,Matt Bell,Paul Daniels
 Rebellion Racing #12,25,8,Rebellion Racing,Lola B12/60 Coupé - Toyota,LMP1,,Shanghai,6,2012,180,5:49:50.179,11 Laps,-28 Laps,Michelin,Not classified,119.0,1:51.524,176.0,Nicolas Prost,Neel Jani,
 AF Corse #51,26,4,AF Corse,Ferrari F458 Italia,LMGTE Pro,,Shanghai,6,2012,144,5:27:17.982,47 Laps,36 Laps,Michelin,Not classified,136.0,2:05.181,156.8,Giancarlo Fisichella,Gianmaria Bruni,
 Gulf Racing Middle East #29,27,9,Gulf Racing Middle East,Lola B12/80 Coupé - Nissan,LMP2,,Shanghai,6,2012,93,3:20:23.969,98 Laps,51 Laps,Dunlop,Not classified,3.0,1:57.761,166.6,Fabien Giroix,Keiko Ihara,Jean-Denis Deletraz
@@ -2656,7 +2656,7 @@ Larbre Competition #50,21,1,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE A
 Krohn Racing #57,22,2,Krohn Racing,Ferrari F458 Italia,LMGTE Am,,Fuji,6,2012,203,6:02:17.553,30 Laps,1 Laps,Michelin,Classified,135.0,1:42.284,160.6,Tracy Krohn,Niclas Jönsson,Michele Rugolo
 Team Felbermayr-Proton #88,23,3,Team Felbermayr-Proton,Porsche 911 RSR (997),LMGTE Am,,Fuji,6,2012,202,6:02:09.119,31 Laps,1 Laps,Michelin,Classified,142.0,1:42.122,160.9,Christian Ried,Gianluca Roda,Paolo Ruberti
 Larbre Competition #70,24,4,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Fuji,6,2012,199,6:01:26.234,34 Laps,3 Laps,Michelin,Classified,170.0,1:42.380,160.4,Jean-Philippe Belloc,Christophe Bourret,Pascal Gibon
-JWA-Avila #55,25,5,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Fuji,6,2012,196,6:00:48.756,37 Laps,3 Laps,,Classified,139.0,1:43.707,158.4,Joël Camathias,Kenji Kobayashi,Paul Daniels
+JWA-Avila #55,25,5,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Fuji,6,2012,196,6:00:48.756,37 Laps,3 Laps,Pirelli,Classified,139.0,1:43.707,158.4,Joël Camathias,Kenji Kobayashi,Paul Daniels
 Lotus #31,26,9,Lotus,Lola B12/80 Coupé - Lotus,LMP2,,Fuji,6,2012,139,3:58:04.009,94 Laps,57 Laps,Dunlop,Not classified,132.0,1:35.966,171.2,Thomas Holzer,Mirco Schultis,
 Signatech Nissan #26,27,10,Signatech Nissan,Oreca 03 - Nissan,LMP2,,Fuji,6,2012,213,6:02:09.616,20 Laps,-74 Laps,Dunlop,Excluded,168.0,1:33.453,175.8,Nelson Panciatici,Pierre Ragues,Roman Rusinov
 Toyota Racing #7,1,1,Toyota Racing,Toyota TS030 - Hybrid,LMP1,,Interlagos,6,2012,247,6:01:08.356,,,Michelin,Classified,165.0,1:23.419,186.0,Alexander Wurz,Nicolas Lapierre,
@@ -2681,7 +2681,7 @@ AF Corse #71,19,4,AF Corse,Ferrari F458 Italia,LMGTE Pro,,Interlagos,6,2012,219,
 Team Felbermayr-Proton #88,20,1,Team Felbermayr-Proton,Porsche 911 RSR (997),LMGTE Am,,Interlagos,6,2012,213,6:02:23.799,34 Laps,6 Laps,Michelin,Classified,183.0,1:36.021,161.6,Christian Ried,Gianluca Roda,Paolo Ruberti
 Larbre Competition #70,21,2,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,,Interlagos,6,2012,211,6:01:09.346,36 Laps,2 Laps,Michelin,Classified,183.0,1:36.110,161.4,Jean-Philippe Belloc,Christophe Bourret,Pascal Gibon
 AF Corse-Waltrip #61,22,3,AF Corse-Waltrip,Ferrari F458 Italia,LMGTE Am,,Interlagos,6,2012,210,6:01:28.117,37 Laps,1 Laps,Michelin,Classified,170.0,1:35.852,161.8,Francisco Longo,Alexandre Negrão,Enrique Bernoldi
-JWA-Avila #55,23,4,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Interlagos,6,2012,195,6:02:34.134,52 Laps,15 Laps,,Classified,128.0,1:37.680,158.8,Joël Camathias,Markus Palttala,Paul Daniels
+JWA-Avila #55,23,4,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,Interlagos,6,2012,195,6:02:34.134,52 Laps,15 Laps,Pirelli,Classified,128.0,1:37.680,158.8,Joël Camathias,Markus Palttala,Paul Daniels
 Gulf Racing Middle East #29,24,9,Gulf Racing Middle East,Lola B12/80 Coupé - Nissan,LMP2,,Interlagos,6,2012,194,6:02:35.122,53 Laps,1 Laps,Dunlop,Classified,126.0,1:29.754,172.8,Fabien Giroix,Keiko Ihara,Jean-Denis Deletraz
 Oak Racing #35,25,10,Oak Racing,Morgan - Nissan,LMP2,,Interlagos,6,2012,164,4:15:45.211,83 Laps,30 Laps,Dunlop,Not classified,151.0,1:28.999,174.3,Bertrand Baguette,Dominik Kraihamer,Alex Brundle
 Signatech Nissan #23,26,11,Signatech Nissan,Oreca 03 - Nissan,LMP2,,Interlagos,6,2012,96,2:29:25.502,151 Laps,68 Laps,Dunlop,Not classified,4.0,1:29.374,173.6,Franck Mailleux,Olivier Lombard,Jordan Tresson
@@ -2719,7 +2719,7 @@ Extreme Limit Aric #43,29,12,Extreme Limit Aric,Norma MP 2000 - Judd,LMP2,,LeMan
 Strakka Racing #21,30,8,Strakka Racing,HPD ARX  03a - Honda,LMP1,,LeMans,24,2012,303,24:01:47.873,75 Laps,5 Laps,Michelin,Classified,267.0,3:31.529,232.0,Nick Leventis,Danny Watts,Jonny Kane
 AF Corse-Waltrip #61,31,6,AF Corse-Waltrip,Ferrari 458 Italia,LMGTE Am,,LeMans,24,2012,294,24:06:07.267,84 Laps,9 Laps,Michelin,Classified,237.0,3:58.821,205.4,Robert Kauffman,Rui Aguas,Brian Vickers
 JMB  Racing #83,32,7,JMB  Racing,Ferrari 458 Italia,LMGTE Am,,LeMans,24,2012,292,24:01:20.206,86 Laps,2 Laps,Michelin,Classified,246.0,4:02.213,202.6,Manuel Rodrigues,Alain Ferte,Philippe Illiano
-JWA-Avila #55,33,8,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,LeMans,24,2012,290,24:06:03.393,88 Laps,2 Laps,,Classified,244.0,4:04.333,200.8,Joël Camathias,Markus Palttala,Paul Daniels
+JWA-Avila #55,33,8,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,,LeMans,24,2012,290,24:06:03.393,88 Laps,2 Laps,Pirelli,Classified,244.0,4:04.333,200.8,Joël Camathias,Markus Palttala,Paul Daniels
 Corvette Racing #74,34,6,Corvette Racing,Chevrolet Corvette C6 ZR1,LMGTE Pro,,LeMans,24,2012,215,24:04:30.368,163 Laps,75 Laps,Michelin,Not classified,168.0,3:56.835,207.2,Oliver Gavin,Tommy Milner,Richard Westbrook
 Pescarolo Team #17,35,9,Pescarolo Team,Dome - Judd,LMP1,,LeMans,24,2012,203,24:08:45.196,175 Laps,12 Laps,Michelin,Not classified,37.0,3:33.560,229.7,Sébastien Bourdais,Nicolas Minassian,Seiji Ara
 Jota #38,36,13,Jota,Zytek Z11SN - Nissan,LMP2,,LeMans,24,2012,271,19:43:53.342,107 Laps,-68 Laps,Dunlop,Retired,96.0,3:41.683,221.3,Simon Dolan,Sam Hancock,Haruki Kurosawa
@@ -2766,7 +2766,7 @@ Larbre Competition #50,20,3,Larbre Competition,Chevrolet Corvette C6-ZR1,LM GTE 
 AF Corse-Waltrip #61,21,4,AF Corse-Waltrip,Ferrari F458 Italia,LM GTE Am,,Sebring,12,2012,283,12:01:29.790,42 Laps,5 Laps,Michelin,Classified,243.0,2:01.746,178.0,Robert Kauffman,Michael Waltrip,Rui Aguas
 Gulf Racing Middle East #28,22,7,Gulf Racing Middle East,Lola B12/80 Coupé - Nissan,LM P2,,Sebring,12,2012,276,12:00:08.974,49 Laps,7 Laps,Dunlop,Classified,55.0,1:55.907,186.9,Fabien Giroix,Maxime Jousse,Stefan Johansson
 Krohn Racing #57,23,5,Krohn Racing,Ferrari F458 Italia,LM GTE Am,,Sebring,12,2012,265,12:01:17.842,60 Laps,11 Laps,Dunlop,Classified,164.0,2:01.818,177.8,Tracy Krohn,Niclas Jönsson,Michele Rugolo
-JWA-Avila #55,24,6,JWA-Avila,Porsche 911 RSR (997),LM GTE Am,,Sebring,12,2012,253,12:02:44.756,72 Laps,12 Laps,,Classified,224.0,2:04.412,174.1,Jöel Camathias,Markus Palttala,Bill Binnie
+JWA-Avila #55,24,6,JWA-Avila,Porsche 911 RSR (997),LM GTE Am,,Sebring,12,2012,253,12:02:44.756,72 Laps,12 Laps,Pirelli,Classified,224.0,2:04.412,174.1,Jöel Camathias,Markus Palttala,Bill Binnie
 Oak Racing #15,25,9,Oak Racing,Oak Pescarolo - Judd,LM P1,,Sebring,12,2012,233,9:01:22.907,92 Laps,20 Laps,Dunlop,Classified,233.0,1:49.905,197.1,Guillaume Moreau,Bertrand Baguette,Dominik Kraihamer
 Signatech Nissan #23,26,8,Signatech Nissan,Oreca 03 - Nissan,LM P2,,Sebring,12,2012,85,3:04:50.867,240 Laps,148 Laps,Dunlop,Not classified,20.0,1:53.936,190.1,Franck Mailleux,Olivier Lombard,Jordan Tresson
 Luxury Racing #59,27,4,Luxury Racing,Ferrari F458 Italia,LM GTE Pro,,Sebring,12,2012,83,3:13:23.687,242 Laps,2 Laps,Michelin,Not classified,19.0,2:00.702,179.5,Frédéric Makowiecki,Jaime Melo,Jean-Karl Vernay
