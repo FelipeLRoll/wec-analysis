@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
+
 ### 󠁧󠁢󠁥󠁮󠁧EN 
 # Inspired by: https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file
 &nbsp;
