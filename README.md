@@ -18,9 +18,10 @@
 &nbsp;
 # Dataset Link: [Kaggle](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 &nbsp;
-# Developed by: * [Felipe Roll - Linkedin](https://www.linkedin.com/in/felipe-roll)
-                * [Felipe Roll - Github](https://github.com/FelipeLRoll)
-                * [Felipe Roll - Gmail](felipelroll@gmail.com)
+# Developed by: 
+  * [Felipe Roll - Linkedin](https://www.linkedin.com/in/felipe-roll)
+  * [Felipe Roll - Github](https://github.com/FelipeLRoll)
+  * [Felipe Roll - Gmail](felipelroll@gmail.com)
 
 
 
