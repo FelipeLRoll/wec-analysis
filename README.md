@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
+
 ### 󠁧󠁢󠁥󠁮󠁧EN 
 # Inspired by: https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file
 &nbsp;
@@ -19,7 +21,7 @@
  - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 &nbsp;
-# Developed by: [Felipe Roll](https://www.linkedin.com/in/felipe-roll-7290a811b/)
+# Developed by: [Felipe Roll](https://www.linkedin.com/in/felipe-roll/)
 
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
