@@ -23,12 +23,29 @@ In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA W
 * Data was collected mainly from https://www.fiawec.com/en/past-seasons/36 and http://fiawec.alkamelsystems.com/index.php, and merged togheter in the wec_database_creation notebook
 * The Exploratory Data Analysis took form in the following steps:
    - Looking at the performance of Michelin and Dunlop at the 2017 Season on both LMGTE classes
-   ![Michelin vs Dunlop](images/dunlopVSmichelin.png "Michelin vs Dunlop")
+   &nbsp;
+   ![Michelin vs Dunlop LMGTE](images/dunlopVSmichelin.png "Michelin vs Dunlop LMGTE")
+   &nbsp;
    - Looking at the performance of Michelin and Dunlop at the 2019-2019 Season on the LMP2 class
+      &nbsp;
+   ![Michelin vs Dunlop LMP2](images/wiinsTyreLMP2.png "Michelin vs Dunlop LMP2")
+   &nbsp;
    - Comparing each tyre manufacturer number of wins with their possible number of wins
+      &nbsp;
+   ![Win rate Tyre Manufacturer](images/winrateTyre.png "Win rate Tyre Manufacturer")
+   &nbsp;
    - Comparing the difference of performance for the LMP1 class era and the Hypercar class era
+      &nbsp;
+   ![LMP1 vs Hypercar](images/lmp1VShypercar.png "LMP1 vs Hypercar")
+   &nbsp;
    - Comparing the LMP2 class troughout the seasons
+      &nbsp;
+   ![LMP2](images/lmp2.png "LMP2")
+   &nbsp;
    - Comparing both LMGTE classes performance troughout the seasons
+      &nbsp;
+   ![LMGTE](images/proVSam.png "LMGTE")
+
 &nbsp;
 # Run this project on your local machine
 &nbsp;
