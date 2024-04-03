@@ -4,7 +4,7 @@
 # Project Overview:
 &nbsp;
 # Code and Resources used:
-  ### Python Version: 
+  ### Python Version: 3.9.13
   ### Packages:
 &nbsp;
 # Data Cleaning:
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 # Visão geral do projeto:
 &nbsp;
 # Código e Recursos Utilizados:
-  ### Versão Python:
+  ### Versão Python: 3.9.13
   ### Pacotes:
    
 &nbsp;      
