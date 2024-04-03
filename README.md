@@ -58,8 +58,6 @@ In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA W
    ![LMGTE](images/proVSam.png "LMGTE")
 
 &nbsp;
-# Run this project on your local machine
-&nbsp;
 # Dataset Link: [Kaggle](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 &nbsp;
 # Developed by: 
