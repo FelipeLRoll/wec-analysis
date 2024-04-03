@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
 
-# Inspired by: [Github](https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file) and [Github](https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card)
+# Inspired by: [F1 Predictor](https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file) and [Churn Prediction](https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card)
 &nbsp;
 # Dashboard []()
 &nbsp;
@@ -57,8 +57,6 @@ In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA W
      
    ![LMGTE](images/proVSam.png "LMGTE")
 
-&nbsp;
-# Run this project on your local machine
 &nbsp;
 # Dataset Link: [Kaggle](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 &nbsp;
