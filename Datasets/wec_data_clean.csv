@@ -80,7 +80,7 @@ AF Corse #61,23,6,AF Corse,Ferrari F458 Italia,LMGTE Am,Bahrain,6,2014,170,6:01:
 Aston Martin Racing #99,24,6,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Bahrain,6,2014,170,6:01:38.735,25 Laps,5.471,Michelin,Classified,116.0,00:02:00.354000,161.9,Bahrain-2014,120.354
 Prospeed Competition #75,25,7,Prospeed Competition,Porsche 911 RSR,LMGTE Am,Bahrain,6,2014,170,6:02:13.584,25 Laps,34.849,Michelin,Classified,145.0,00:02:01.459000,160.4,Bahrain-2014,121.459
 SMP Racing #27,26,5,SMP Racing,Oreca 03R - Nissan,LMP2,Bahrain,6,2014,171,5:45:33.303,24 Laps,-1 Laps,Michelin,Not classified,8.0,00:01:52.999000,172.4,Bahrain-2014,112.999
-Lotus #9,27,9,Lotus,CLM P1/01 - AER,LMP1,Bahrain,6,2014,1,1:59.627,194 Laps,170 Laps,Michelin,Not classified,0.0,0,0.0,Bahrain-2014,
+Lotus #9,27,9,Lotus,CLM P1/01 - AER,LMP1,Bahrain,6,2014,1,1:59.627,194 Laps,170 Laps,Michelin,Not classified,0.0,0,0.0,Bahrain-2014,0.0
 Audi Sport Team Joest #2,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Cota,6,2014,157,6:01:52.122,0,0,Michelin,Classified,134.0,00:01:51.521000,178.1,Cota-2014,111.521
 Audi Sport Team Joest #1,2,2,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Cota,6,2014,157,6:02:45.138,53.016,53.016,Michelin,Classified,127.0,00:01:50.782000,179.2,Cota-2014,110.782
 Toyota Racing #8,3,3,Toyota Racing,Toyota TS 040 - Hybrid,LMP1,Cota,6,2014,157,6:02:56.067,1'03.945,10.929,Michelin,Classified,138.0,00:01:50.390000,179.9,Cota-2014,110.39
@@ -242,8 +242,8 @@ Aston Martin Racing #95,21,2,Aston Martin Racing,Aston Martin Vantage V8,LMGTE A
 Prospeed Competition #75,23,4,Prospeed Competition,Porsche 911 RSR,LMGTE Am,Shanghai,6,2014,163,6:01:16.548,25 Laps,1 Laps,Michelin,Classified,96.0,00:02:05.178000,156.8,Shanghai-2014,125.178
 Proton Competition #88,24,5,Proton Competition,Porsche 911 RSR,LMGTE Am,Shanghai,6,2014,161,6:03:13.204,27 Laps,2 Laps,Michelin,Classified,136.0,00:02:05.751000,156.1,Shanghai-2014,125.751
 Aston Martin Racing #97,25,5,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Shanghai,6,2014,123,4:28:55.989,65 Laps,38 Laps,Michelin,Not classified,92.0,00:02:04.260000,157.9,Shanghai-2014,124.26
-KCMG #47,26,7,KCMG,Oreca 03R - Nissan,LMP2,Shanghai,6,2014,0,0,188 Laps,123 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2014,
-AF Corse #51,27,6,AF Corse,Ferrari F458 Italia,LMGTE Pro,Shanghai,6,2014,0,0,188 Laps,0,Michelin,Not classified,0.0,0,0.0,Shanghai-2014,
+KCMG #47,26,7,KCMG,Oreca 03R - Nissan,LMP2,Shanghai,6,2014,0,0,188 Laps,123 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2014,0.0
+AF Corse #51,27,6,AF Corse,Ferrari F458 Italia,LMGTE Pro,Shanghai,6,2014,0,0,188 Laps,0,Michelin,Not classified,0.0,0,0.0,Shanghai-2014,0.0
 Audi Sport Team Joest #7,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Silverstone,6,2015,201,6:00:30.876,0,0,Michelin,Classified,26.0,00:01:40.836000,210.7,Silverstone-2015,100.836
 Porsche Team #18,2,2,Porsche Team,Porsche 919 Hybrid,LMP1,Silverstone,6,2015,201,6:00:35.486,4.610,4.610,Michelin,Classified,5.0,00:01:42.245000,207.8,Silverstone-2015,102.245
 Toyota Racing #1,3,3,Toyota Racing,Toyota TS 040 - Hybrid,LMP1,Silverstone,6,2015,201,6:00:45.692,14.816,10.206,Michelin,Classified,4.0,00:01:42.209000,207.8,Silverstone-2015,102.209
@@ -431,7 +431,7 @@ Larbre Competition #50,27,5,Larbre Competition,Chevrolet Corvette C7,LMGTE Am,Nu
 Abu Dhabi-Proton Racing #88,28,6,Abu Dhabi-Proton Racing,Porsche 911 RSR,LMGTE Am,Nurburgring,6,2015,170,6:01:57.412,33 Laps,1 Laps,Michelin,Classified,150.0,00:01:56.672000,158.5,Nurburgring-2015,116.672
 Aston Martin Racing #96,29,7,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Am,Nurburgring,6,2015,169,6:03:08.571,34 Laps,1 Laps,Michelin,Classified,103.0,00:01:57.839000,156.9,Nurburgring-2015,117.839
 AF Corse #51,30,7,AF Corse,Ferrari F458 Italia,LMGTE Pro,Nurburgring,6,2015,168,6:02:19.150,35 Laps,1 Laps,Michelin,Classified,2.0,00:01:55.191000,160.5,Nurburgring-2015,115.191
-Rebellion Racing #13,31,9,Rebellion Racing,Rebellion R-One - AER,LMP1,Nurburgring,6,2015,1,55:16.198,202 Laps,167 Laps,Michelin,Not classified,0.0,0,0.0,Nurburgring-2015,
+Rebellion Racing #13,31,9,Rebellion Racing,Rebellion R-One - AER,LMP1,Nurburgring,6,2015,1,55:16.198,202 Laps,167 Laps,Michelin,Not classified,0.0,0,0.0,Nurburgring-2015,0.0
 Porsche Team #19,1,1,Porsche Team,Porsche 919 Hybrid,LMP1,LeMans,24,2015,395,24:00:42.784,0,0,Michelin,Classified,235.0,00:03:18.596000,247.1,LeMans-2015,198.596
 Porsche Team #17,2,2,Porsche Team,Porsche 919 Hybrid,LMP1,LeMans,24,2015,394,24:00:42.916,1 Laps,1 Laps,Michelin,Classified,303.0,00:03:18.186000,247.6,LeMans-2015,198.186
 Audi Sport Team Joest #7,3,3,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,LeMans,24,2015,393,24:01:38.637,2 Laps,1 Laps,Michelin,Classified,337.0,00:03:17.475000,248.5,LeMans-2015,197.475
@@ -801,8 +801,8 @@ KCMG #78,26,3,KCMG,Porsche 911 RSR,LMGTE Am,Shanghai,6,2016,166,6:02:11.263,29 L
 Abu Dhabi-Proton Racing #88,27,4,Abu Dhabi-Proton Racing,Porsche 911 RSR,LMGTE Am,Shanghai,6,2016,166,6:02:22.849,29 Laps,11.586,Michelin,Classified,6.0,00:02:05.247000,156.7,Shanghai-2016,125.247
 Larbre Competition #50,28,5,Larbre Competition,Chevrolet Corvette C7-Z06,LMGTE Am,Shanghai,6,2016,164,6:01:45.312,31 Laps,2 Laps,Michelin,Classified,5.0,00:02:05.732000,156.1,Shanghai-2016,125.732
 Gulf Racing #86,29,6,Gulf Racing,Porsche 911 RSR,LMGTE Am,Shanghai,6,2016,164,6:02:29.774,31 Laps,44.462,Michelin,Classified,4.0,00:02:05.555000,156.3,Shanghai-2016,125.555
-Aston Martin Racing #97,30,7,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Shanghai,6,2016,1,3:37.142,194 Laps,163 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2016,
-Manor #45,31,10,Manor,Oreca 05 - Nissan,LMP2,Shanghai,6,2016,0,0,195 Laps,1 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2016,
+Aston Martin Racing #97,30,7,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Shanghai,6,2016,1,3:37.142,194 Laps,163 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2016,0.0
+Manor #45,31,10,Manor,Oreca 05 - Nissan,LMP2,Shanghai,6,2016,0,0,195 Laps,1 Laps,Dunlop,Not classified,0.0,0,0.0,Shanghai-2016,0.0
 Porsche Team #1,1,1,Porsche Team,Porsche 919 Hybrid,LMP1,Mexico,6,2016,230,6:00:43.702,0,0,Michelin,Classified,114.0,00:01:25.880000,180.4,Mexico-2016,85.88
 Audi Sport Team Joest #7,2,2,Audi Sport Team Joest,Audi R18,LMP1,Mexico,6,2016,230,6:01:45.144,1'01.442,1'01.442,Michelin,Classified,57.0,00:01:26.083000,180.0,Mexico-2016,86.083
 Toyota Gazoo Racing #6,3,3,Toyota Gazoo Racing,Toyota TS050 - Hybrid,LMP1,Mexico,6,2016,230,6:01:53.411,1'09.709,8.267,Michelin,Classified,182.0,00:01:26.567000,179.0,Mexico-2016,86.567
@@ -1670,30 +1670,6 @@ Gulf Racing #86,26,10,Gulf Racing,Porsche 911 RSR,LMGTE Am,Spa,6,2019-2020,130,6
 Bykolles Racing Team #4,27,4,Bykolles Racing Team,Enso CLM P1/01,LMP1,Spa,6,2019-2020,126,6:00:17.188,17 Laps,4 Laps,Michelin,Classified,37.0,00:02:05.044000,201.6,Spa-2019-2020,125.044
 Eurasia Motorsport #35,28,8,Eurasia Motorsport,Ligier JSP217 - Gibson,LMP2,Spa,6,2019-2020,122,6:01:11.819,21 Laps,4 Laps,Michelin,Classified,102.0,00:02:06.943000,198.6,Spa-2019-2020,126.943
 Signatech Alpine ELF #36,29,9,Signatech Alpine ELF,Alpine A470 - Gibson,LMP2,Spa,6,2019-2020,106,4:37:45.427,37 Laps,16 Laps,Michelin,Not classified,35.0,00:02:06.802000,198.8,Spa-2019-2020,126.802
-Toyota Gazoo Racing #7,1,1,Toyota Gazoo Racing,Toyota TS050 - Hybrid,LMP1,Bahrain,8,2019-2020,263,8:00:13.867,0,0,Michelin,Classified,203.0,00:01:42.637000,189.8,Bahrain-2019-2020,102.637
-Toyota Gazoo Racing #8,2,3,Toyota Gazoo Racing,Toyota TS050 - Hybrid,LMP1,Bahrain,8,2019-2020,263,8:01:18.461,1'04.594,1'04.594,Michelin,Classified,151.0,00:01:42.833000,189.5,Bahrain-2019-2020,102.833
-Jackie Chan DC Racing #37,3,1,Jackie Chan DC Racing,Oreca 07 - Gibson,LMP2,Bahrain,8,2019-2020,247,8:01:17.284,16 Laps,16 Laps,Goodyear,Classified,188.0,00:01:49.978000,177.2,Bahrain-2019-2020,109.978
-JOTA #38,4,3,JOTA,Oreca 07 - Gibson,LMP2,Bahrain,8,2019-2020,247,8:01:19.178,16 Laps,1.894,Goodyear,Classified,209.0,00:01:48.801000,179.1,Bahrain-2019-2020,108.801
-Racing Team Nederland #29,5,5,Racing Team Nederland,Oreca 07 - Gibson,LMP2,Bahrain,8,2019-2020,247,8:01:34.002,16 Laps,14.824,Michelin,Classified,184.0,00:01:49.813000,177.4,Bahrain-2019-2020,109.813
-United Autosports #22,6,7,United Autosports,Oreca 07 - Gibson,LMP2,Bahrain,8,2019-2020,247,8:01:45.475,16 Laps,11.473,Michelin,Classified,207.0,00:01:49.371000,178.1,Bahrain-2019-2020,109.371
-Signatech Alpine ELF #36,7,9,Signatech Alpine ELF,Alpine A470 - Gibson,LMP2,Bahrain,8,2019-2020,246,8:00:26.161,17 Laps,1 Laps,Michelin,Classified,134.0,00:01:48.838000,179.0,Bahrain-2019-2020,108.838
-Porsche GT Team #92,8,1,Porsche GT Team,Porsche 911 RSR - 19,LMGTE Pro,Bahrain,8,2019-2020,235,8:00:44.676,28 Laps,11 Laps,Michelin,Classified,181.0,00:01:57.230000,166.2,Bahrain-2019-2020,117.23
-Porsche GT Team #91,9,3,Porsche GT Team,Porsche 911 RSR - 19,LMGTE Pro,Bahrain,8,2019-2020,235,8:00:47.562,28 Laps,2.886,Michelin,Classified,179.0,00:01:57.169000,166.3,Bahrain-2019-2020,117.169
-AF Corse #71,10,5,AF Corse,Ferrari 488 GTE Evo,LMGTE Pro,Bahrain,8,2019-2020,235,8:01:58.111,28 Laps,1'10.549,Michelin,Classified,120.0,00:01:57.840000,165.3,Bahrain-2019-2020,117.84
-Aston Martin Racing #97,11,7,Aston Martin Racing,Aston Martin Vantage AMR,LMGTE Pro,Bahrain,8,2019-2020,234,8:00:43.080,29 Laps,1 Laps,Michelin,Classified,185.0,00:01:57.392000,166.0,Bahrain-2019-2020,117.392
-Aston Martin Racing #95,12,9,Aston Martin Racing,Aston Martin Vantage AMR,LMGTE Pro,Bahrain,8,2019-2020,233,8:00:43.248,30 Laps,1 Laps,Michelin,Classified,3.0,00:01:57.892000,165.3,Bahrain-2019-2020,117.892
-Team Project 1 #56,13,1,Team Project 1,Porsche 911 RSR,LMGTE Am,Bahrain,8,2019-2020,232,8:00:52.072,31 Laps,1 Laps,Michelin,Classified,181.0,00:01:58.199000,164.8,Bahrain-2019-2020,118.199
-AF Corse #83,14,3,AF Corse,Ferrari 488 GTE Evo,LMGTE Am,Bahrain,8,2019-2020,232,8:01:27.695,31 Laps,35.623,Michelin,Classified,214.0,00:01:58.176000,164.9,Bahrain-2019-2020,118.176
-Dempsey - Proton Racing #88,15,5,Dempsey - Proton Racing,Porsche 911 RSR,LMGTE Am,Bahrain,8,2019-2020,232,8:01:28.705,31 Laps,1.010,Michelin,Classified,126.0,00:01:57.430000,165.9,Bahrain-2019-2020,117.43
-AF Corse #54,16,7,AF Corse,Ferrari 488 GTE Evo,LMGTE Am,Bahrain,8,2019-2020,232,8:02:02.226,31 Laps,33.521,Michelin,Classified,119.0,00:01:58.466000,164.5,Bahrain-2019-2020,118.466
-Gulf Racing #86,17,9,Gulf Racing,Porsche 911 RSR,LMGTE Am,Bahrain,8,2019-2020,232,8:02:04.387,31 Laps,2.161,Michelin,Classified,179.0,00:01:57.711000,165.5,Bahrain-2019-2020,117.711
-Team Project 1 #57,18,11,Team Project 1,Porsche 911 RSR,LMGTE Am,Bahrain,8,2019-2020,231,8:00:28.092,32 Laps,1 Laps,Michelin,Classified,94.0,00:01:58.394000,164.6,Bahrain-2019-2020,118.394
-AF Corse #51,19,11,AF Corse,Ferrari 488 GTE Evo,LMGTE Pro,Bahrain,8,2019-2020,231,8:00:33.331,32 Laps,5.239,Michelin,Classified,63.0,00:01:57.940000,165.2,Bahrain-2019-2020,117.94
-Dempsey - Proton Racing #77,20,13,Dempsey - Proton Racing,Porsche 911 RSR,LMGTE Am,Bahrain,8,2019-2020,231,8:00:35.014,32 Laps,1.683,Michelin,Classified,126.0,00:01:58.279000,164.7,Bahrain-2019-2020,118.279
-TF Sport #90,21,15,TF Sport,Aston Martin Vantage AMR,LMGTE Am,Bahrain,8,2019-2020,231,8:00:50.154,32 Laps,15.140,Michelin,Classified,146.0,00:01:58.781000,164.0,Bahrain-2019-2020,118.781
-Aston Martin Racing #98,22,17,Aston Martin Racing,Aston Martin Vantage AMR,LMGTE Am,Bahrain,8,2019-2020,231,8:00:50.733,32 Laps,0.579,Michelin,Classified,177.0,00:01:57.460000,165.9,Bahrain-2019-2020,117.46
-Red River Sport #62,23,19,Red River Sport,Ferrari 488 GTE Evo,LMGTE Am,Bahrain,8,2019-2020,231,8:00:51.461,32 Laps,0.728,Michelin,Classified,181.0,00:01:58.291000,164.7,Bahrain-2019-2020,118.291
-Cetilar Racing #47,24,11,Cetilar Racing,Dallara P217 - Gibson,LMP2,Bahrain,8,2019-2020,231,8:02:02.988,32 Laps,1'11.527,Michelin,Classified,176.0,00:01:50.824000,175.8,Bahrain-2019-2020,110.824
 Toyota Gazoo Racing #8,1,1,Toyota Gazoo Racing,Toyota GR010 HYBRID,Hypercar,Algarve,8,2021,300,8:00:15.414,0,0,Michelin,Classified,225.0,00:01:31.006000,184.1,Algarve-2021,91.006
 Toyota Gazoo Racing #7,2,2,Toyota Gazoo Racing,Toyota GR010 HYBRID,Hypercar,Algarve,8,2021,300,8:00:17.214,1.800,1.800,Michelin,Classified,258.0,00:01:31.103000,183.9,Algarve-2021,91.103
 Alpine Elf Matmut #36,3,3,Alpine Elf Matmut,Alpine A480 - Gibson,Hypercar,Algarve,8,2021,300,8:01:24.011,1'08.597,1'06.797,Michelin,Classified,212.0,00:01:30.919000,184.2,Algarve-2021,90.919
@@ -1818,8 +1794,8 @@ Iron Lynx #60,28,9,Iron Lynx,Ferrari 488 GTE Evo,LMGTE Am,Spa,6,2021,149,6:00:38
 Team WRT #31,29,12,Team WRT,Oreca 07 - Gibson,LMP2,Spa,6,2021,127,6:01:42.133,35 Laps,22 Laps,Goodyear,Classified,127.0,00:02:06.550000,199.2,Spa-2021,126.55
 Dempsey - Proton Racing #77,30,10,Dempsey - Proton Racing,Porsche 911 RSR - 19,LMGTE Am,Spa,6,2021,138,5:29:25.036,24 Laps,-11 Laps,Michelin,Not classified,107.0,00:02:15.210000,186.5,Spa-2021,135.21
 G-Drive Racing #26,31,13,G-Drive Racing,Aurus 01 - Gibson,LMP2,Spa,6,2021,125,4:40:45.426,37 Laps,13 Laps,Goodyear,Not classified,86.0,00:02:05.917000,200.2,Spa-2021,125.917
-GR Racing #86,32,11,GR Racing,Porsche 911 RSR - 19,LMGTE Am,Spa,6,2021,0,0,162 Laps,125 Laps,Michelin,Retired,0.0,0,0.0,Spa-2021,
-ARC Bratislava #44,33,14,ARC Bratislava,Ligier JSP217 - Gibson,LMP2,Spa,6,2021,0,0,162 Laps,0,Goodyear,Retired,0.0,0,0.0,Spa-2021,
+GR Racing #86,32,11,GR Racing,Porsche 911 RSR - 19,LMGTE Am,Spa,6,2021,0,0,162 Laps,125 Laps,Michelin,Retired,0.0,0,0.0,Spa-2021,0.0
+ARC Bratislava #44,33,14,ARC Bratislava,Ligier JSP217 - Gibson,LMP2,Spa,6,2021,0,0,162 Laps,0,Goodyear,Retired,0.0,0,0.0,Spa-2021,0.0
 Toyota Gazoo Racing #7,1,1,Toyota Gazoo Racing,Toyota GR010 HYBRID,Hypercar,Monza,6,2021,204,6:01:12.290,0,0,Michelin,Classified,181.0,00:01:36.951000,215.1,Monza-2021,96.951
 Alpine Elf Matmut #36,2,2,Alpine Elf Matmut,Alpine A480 - Gibson,Hypercar,Monza,6,2021,204,6:02:13.198,1'00.908,1'00.908,Michelin,Classified,127.0,00:01:37.544000,213.8,Monza-2021,97.544
 United Autosports USA #22,3,1,United Autosports USA,Oreca 07 - Gibson,LMP2,Monza,6,2021,200,6:01:28.074,4 Laps,4 Laps,Goodyear,Classified,162.0,00:01:39.602000,209.4,Monza-2021,99.602
@@ -2575,7 +2551,7 @@ Extreme Limite Aric #43,37,16,Extreme Limite Aric,Norma M200P - Judd,LMP2,Spa,6,
 Race Performance #40,38,17,Race Performance,Oreca 03 - Judd,LMP2,Spa,6,2012,45,2:25:12.518,115 Laps,38 Laps,Dunlop,Not classified,44.0,00:02:15.359000,186.3,Spa-2012,135.359
 Larbre Competition #70,39,8,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,Spa,6,2012,39,1:45:34.972,121 Laps,6 Laps,Michelin,Not classified,38.0,00:02:28.837000,169.4,Spa-2012,148.837
 Aston Martin Racing #97,40,5,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Spa,6,2012,11,31:51.618,149 Laps,28 Laps,Michelin,Not classified,3.0,00:02:39.767000,157.8,Spa-2012,159.767
-AF Corse-Waltrip #61,41,9,AF Corse-Waltrip,Ferrari F458 Italia,LMGTE Am,Spa,6,2012,0,0,160 Laps,11 Laps,Michelin,Not started,0.0,0,0.0,Spa-2012,
+AF Corse-Waltrip #61,41,9,AF Corse-Waltrip,Ferrari F458 Italia,LMGTE Am,Spa,6,2012,0,0,160 Laps,11 Laps,Michelin,Not started,0.0,0,0.0,Spa-2012,0.0
 Audi Sport Team Joest #1,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Bahrain,6,2012,191,6:00:56.244,0,0,Michelin,Classified,55.0,00:01:47.274000,181.6,Bahrain-2012,107.274
 Audi Sport Team Joest #2,2,2,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Bahrain,6,2012,190,6:02:28.182,1 Laps,1 Laps,Michelin,Classified,149.0,00:01:47.140000,181.8,Bahrain-2012,107.14
 Strakka Racing #21,3,3,Strakka Racing,HPD ARX 03a - Honda,LMP1,Bahrain,6,2012,185,6:02:11.887,6 Laps,5 Laps,Michelin,Classified,150.0,00:01:49.597000,177.8,Bahrain-2012,109.597
@@ -2685,7 +2661,7 @@ JWA-Avila #55,23,4,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,Interlagos,6,2012,19
 Gulf Racing Middle East #29,24,9,Gulf Racing Middle East,Lola B12/80 Coupé - Nissan,LMP2,Interlagos,6,2012,194,6:02:35.122,53 Laps,1 Laps,Dunlop,Classified,126.0,00:01:29.754000,172.8,Interlagos-2012,89.754
 Oak Racing #35,25,10,Oak Racing,Morgan - Nissan,LMP2,Interlagos,6,2012,164,4:15:45.211,83 Laps,30 Laps,Dunlop,Not classified,151.0,00:01:28.999000,174.3,Interlagos-2012,88.999
 Signatech Nissan #23,26,11,Signatech Nissan,Oreca 03 - Nissan,LMP2,Interlagos,6,2012,96,2:29:25.502,151 Laps,68 Laps,Dunlop,Not classified,4.0,00:01:29.374000,173.6,Interlagos-2012,89.374
-Krohn Racing #57,27,5,Krohn Racing,Ferrari F458 Italia,LMGTE Am,Interlagos,6,2012,1,2:09.020,246 Laps,95 Laps,Michelin,Not classified,0.0,0,0.0,Interlagos-2012,
+Krohn Racing #57,27,5,Krohn Racing,Ferrari F458 Italia,LMGTE Am,Interlagos,6,2012,1,2:09.020,246 Laps,95 Laps,Michelin,Not classified,0.0,0,0.0,Interlagos-2012,0.0
 Larbre Competition #50,28,6,Larbre Competition,Chevrolet Corvette C6-ZR1,LMGTE Am,Interlagos,6,2012,216,6:02:18.896,31 Laps,-215 Laps,Michelin,Excluded,193.0,00:01:36.293000,161.1,Interlagos-2012,96.293
 Audi Sport Team Joest #1,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,LeMans,24,2012,378,24:01:16.128,0,0,Michelin,Classified,318.0,00:03:25.706000,238.5,LeMans-2012,205.706
 Audi Sport Team Joest #2,2,2,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,LeMans,24,2012,377,24:01:16.256,1 Laps,1 Laps,Michelin,Classified,355.0,00:03:24.276000,240.2,LeMans-2012,204.276
@@ -2770,7 +2746,7 @@ JWA-Avila #55,24,6,JWA-Avila,Porsche 911 RSR (997),LMGTE Am,Sebring,12,2012,253,
 Oak Racing #15,25,9,Oak Racing,Oak Pescarolo - Judd,LMP1,Sebring,12,2012,233,9:01:22.907,92 Laps,20 Laps,Dunlop,Classified,233.0,00:01:49.905000,197.1,Sebring-2012,109.905
 Signatech Nissan #23,26,8,Signatech Nissan,Oreca 03 - Nissan,LMP2,Sebring,12,2012,85,3:04:50.867,240 Laps,148 Laps,Dunlop,Not classified,20.0,00:01:53.936000,190.1,Sebring-2012,113.936
 Luxury Racing #59,27,4,Luxury Racing,Ferrari F458 Italia,LMGTE Pro,Sebring,12,2012,83,3:13:23.687,242 Laps,2 Laps,Michelin,Not classified,19.0,00:02:00.702000,179.5,Sebring-2012,120.702
-Luxury Racing #58,28,7,Luxury Racing,Ferrari F458 Italia,LMGTE Am,Sebring,12,2012,0,0,325 Laps,83 Laps,Michelin,Not classified,0.0,0,0.0,Sebring-2012,
+Luxury Racing #58,28,7,Luxury Racing,Ferrari F458 Italia,LMGTE Am,Sebring,12,2012,0,0,325 Laps,83 Laps,Michelin,Not classified,0.0,0,0.0,Sebring-2012,0.0
 AF Corse #51,29,5,AF Corse,Ferrari F458 Italia,LMGTE Pro,Sebring,12,2012,214,12:01:18.487,111 Laps,-214 Laps,Michelin,Excluded,196.0,00:02:00.123000,180.4,Sebring-2012,120.123
 Audi Sport Team Joest #2,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Silverstone,6,2013,197,6:00:01.686,0,0,Michelin,Classified,192.0,00:01:42.767000,206.3,Silverstone-2013,102.767
 Audi Sport Team Joest #1,2,2,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Silverstone,6,2013,197,6:00:05.148,3.462,3.462,Michelin,Classified,163.0,00:01:42.926000,206.0,Silverstone-2013,102.926
@@ -2864,7 +2840,7 @@ Krohn Racing #57,24,8,Krohn Racing,Ferrari F458 Italia,LMGTE Am,Bahrain,6,2013,8
 Toyota Racing #7,25,4,Toyota Racing,Toyota TS030 - Hybrid,LMP1,Bahrain,6,2013,64,1:55:44.693,135 Laps,19 Laps,Michelin,Not classified,36.0,00:01:44.440000,186.5,Bahrain-2013,104.44
 Rebellion Racing #12,26,5,Rebellion Racing,Lola B12/60 Coupé - Toyota,LMP1,Bahrain,6,2013,44,1:22:16.426,155 Laps,20 Laps,Michelin,Not classified,3.0,00:01:48.223000,180.0,Bahrain-2013,108.223
 Lotus #32,27,8,Lotus,Lotus T128,LMP2,Bahrain,6,2013,5,50:07.462,194 Laps,39 Laps,Dunlop,Not classified,4.0,00:02:00.773000,161.3,Bahrain-2013,120.773
-Lotus #31,28,9,Lotus,Lotus T128,LMP2,Bahrain,6,2013,0,0,199 Laps,5 Laps,Dunlop,Not classified,0.0,0,0.0,Bahrain-2013,
+Lotus #31,28,9,Lotus,Lotus T128,LMP2,Bahrain,6,2013,0,0,199 Laps,5 Laps,Dunlop,Not classified,0.0,0,0.0,Bahrain-2013,0.0
 Audi Sport Team Joest #1,1,1,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Shanghai,6,2013,190,6:01:33.343,0,0,Michelin,Classified,100.0,00:01:49.066000,179.9,Shanghai-2013,109.066
 Toyota Racing #7,2,2,Toyota Racing,Toyota TS030 - Hybrid,LMP1,Shanghai,6,2013,190,6:01:48.717,15.374,15.374,Michelin,Classified,106.0,00:01:49.383000,179.4,Shanghai-2013,109.383
 Audi Sport Team Joest #2,3,3,Audi Sport Team Joest,Audi R18 e-tron quattro,LMP1,Shanghai,6,2013,189,6:03:07.001,1 Laps,1 Laps,Michelin,Classified,76.0,00:01:49.439000,179.3,Shanghai-2013,109.439
@@ -3033,4 +3009,4 @@ Krohn Racing #57,24,8,Krohn Racing,Ferrari F458 Italia,LMGTE Am,Cota,6,2013,156,
 OAK Racing #45,25,8,OAK Racing,Morgan - Nissan,LMP2,Cota,6,2013,148,6:00:40.364,39 Laps,8 Laps,Dunlop,Classified,86.0,00:01:59.816000,165.7,Cota-2013,119.816
 Aston Martin Racing #97,26,6,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Cota,6,2013,118,4:19:17.232,69 Laps,30 Laps,Michelin,Classified,109.0,00:02:04.298000,159.8,Cota-2013,124.298
 Aston Martin Racing #98,27,7,Aston Martin Racing,Aston Martin Vantage V8,LMGTE Pro,Cota,6,2013,84,3:11:30.224,103 Laps,34 Laps,Michelin,Classified,50.0,00:02:04.292000,159.8,Cota-2013,124.292
-Lotus #31,28,9,Lotus,Lotus T128,LMP2,Cota,6,2013,0,0,187 Laps,84 Laps,Dunlop,Classified,0.0,0,0.0,Cota-2013,
+Lotus #31,28,9,Lotus,Lotus T128,LMP2,Cota,6,2013,0,0,187 Laps,84 Laps,Dunlop,Classified,0.0,0,0.0,Cota-2013,0.0
