@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
 
-# Inspired by: [Github](https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file) and [Github](https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card)
+# Inspired by: [F1 Predictor](https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file) and [Churn Prediction](https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card)
 &nbsp;
 # Dashboard []()
 &nbsp;
