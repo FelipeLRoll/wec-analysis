@@ -1,7 +1,0 @@
-README.md
-setup.py
-WEC_Analysis.egg-info/PKG-INFO
-WEC_Analysis.egg-info/SOURCES.txt
-WEC_Analysis.egg-info/dependency_links.txt
-WEC_Analysis.egg-info/requires.txt
-WEC_Analysis.egg-info/top_level.txt
