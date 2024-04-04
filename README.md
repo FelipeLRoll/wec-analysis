@@ -2,7 +2,7 @@
 
 # Inspired by: [F1 Predictor](https://github.com/JaideepGuntupalli/f1-predictor?tab=readme-ov-file) and [Churn Prediction](https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card)
 &nbsp;
-# Dashboard []()
+# Dashboard [WEC Analysis](https://public.tableau.com/app/profile/felipe.roll/viz/WECAnalysis/Dashboard1?publish=yes)
 &nbsp;
 # Project Overview:
 In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA WEC season from 2012-2023 and Le Mans 2011 Race](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011) database.</b> The main objective here is to test and <b>improve my data analysis</b> and <b>uncover insights to some aspects of Endurance Racing</b>. This will be an ongoing project and may have several updates. I also included the notebook for the dataset creation and the individual datasets used to merge into one.
