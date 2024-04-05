@@ -46,13 +46,13 @@ In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA W
    ![LMP1 vs Hypercar](images/lmp1VShypercar.png "LMP1 vs Hypercar")
    &nbsp;
 
-   - Comparing the LMP2 class troughout the seasons
+   - Comparing the LMP2 class throughout the seasons
       &nbsp;
      
    ![LMP2](images/lmp2.png "LMP2")
    &nbsp;
 
-   - Comparing both LMGTE classes performance troughout the seasons
+   - Comparing both LMGTE classes performance throughout the seasons
       &nbsp;
      
    ![LMGTE](images/proVSam.png "LMGTE")
