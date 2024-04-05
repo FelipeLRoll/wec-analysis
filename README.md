@@ -13,7 +13,7 @@ In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA W
 * Visual Studio Code (project development environment).
 &nbsp;
 # Data Cleaning steps:
-* Renamed values like 'LM P1' to 'LMP1' so we hava pattern between the classes
+* Renamed values like 'LM P1' to 'LMP1' so we have a pattern between the classes
 * Dropped Columns that we will not use such as driver names
 * Created Columns to help in later analysis
 * Filled missing values
