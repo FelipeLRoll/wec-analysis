@@ -8,7 +8,7 @@
 In this project, I will perform <b>exploratory data analysis (EDA) on the [FIA WEC season from 2012-2023 and Le Mans 2011 Race](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011) database.</b> The main objective here is to test and <b>improve my data analysis</b> and <b>uncover insights to some aspects of Endurance Racing</b>. This will be an ongoing project and may have several updates. I also included the notebook for the dataset creation and the individual datasets used to merge into one.
 &nbsp;
 # Code and Resources used:
-* Python (Pandas, Matplotlib, Seaborn), 
+* Python (Pandas, Matplotlib, Seaborn)
 * Jupyter Notebook, Git and Github (version control), 
 * Visual Studio Code (project development environment).
 &nbsp;
